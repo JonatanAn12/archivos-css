@@ -1,3 +1,6 @@
 body {
     background-color: aquamarine;
+    border: 20px, maroon;
+    justify-self: auto;
+    margin-bottom: 21px;
 }
